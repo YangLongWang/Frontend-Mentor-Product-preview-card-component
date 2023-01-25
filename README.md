@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/YangLongWang/Frontend-Mentor-Product-preview-card-component](https://github.com/YangLongWang/Frontend-Mentor-Product-preview-card-component)
+- Live Site URL: [https://yanglongwang.github.io/Frontend-Mentor-Product-preview-card-component/](https://yanglongwang.github.io/Frontend-Mentor-Product-preview-card-component/)
 
 ## My process
 
@@ -42,5 +42,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Longyang Wang](https://github.com/YangLongWang)
+- Github - [Longyang Wang](https://github.com/YangLongWang)
 - Frontend Mentor - [@Longyang Wang](https://www.frontendmentor.io/profile/YangLongWang)
